@@ -2,7 +2,7 @@
 
 # NUMPY課程大綱
 ```
-[1]numpy
+[1]numpyhrhrh
 [2]Numpy ndarray資料結構及其屬性
 [3]單一Numpy ndarray的各種運算
    建立ndarray的各種方法
