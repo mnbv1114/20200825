@@ -1,6 +1,6 @@
 # 教學大綱
 ```
-[1].Data Visualization資料視覺化
+[1].Data Visualization資料視覺
 [2].資料視覺化の套件
 [3].Google Colab上的範利
 
